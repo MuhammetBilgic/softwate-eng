@@ -3,3 +3,5 @@ testing undo
 adding more comment
 
 branching
+
+Checking the how head will look like on the new branch
